@@ -1,0 +1,30 @@
+Framwork is the basic structure.it helps in easy development.it provides basic configurations
+
+angular js features:=
+.data binding
+.architecture
+.directives
+.not browsers specific
+.code less
+.speed and performance
+.dependency injection
+.deep linking
+.routing
+.productivity
+
+MEAN Stack Fundamentals
+4 hours
+
+companies using angular js
+flipcart 
+gmail
+upwork
+paypal
+Samsung
+youtube
+nike
+sony
+hbo
+microsoftoffice
+
+
