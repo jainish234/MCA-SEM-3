@@ -1,0 +1,14 @@
+@helper BulletedList(String[] val)
+{
+    <ul>
+    @foreach (var item in val)
+    {
+     <li>@item</li>
+    
+    }
+    <hr />
+</ul>
+}
+
+@BulletedList(new string[] { "Amit", "sandeep" })
+@BulletedList(new string[] { "India", "Pakistan" })
